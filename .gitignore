@@ -31,3 +31,20 @@ build/
 
 ### VS Code ###
 .vscode/
+
+# Log files
+*.log
+
+# Environment variables
+.env
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Other IDE specific files
+*.class
+*.jar
+*.war
+*.ear
+
